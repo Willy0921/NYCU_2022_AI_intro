@@ -10,11 +10,11 @@ Implement different search algorithms like BFS/DFS/A*/uniform cost to find the r
 Implement different adversarial search algorithms like Minimax Search, Alpha-Beta Pruning, Expectimax Search to control the multi-agent for pacman game
 
 ![plot](./demo_image/hw3.png)
-### HW4 :
+### HW4 : Reinforcement Learning in Cartpole game
 Implement reinforcement learning like Q-Learning, DQN on cartpole game in gym enviornment
 
 ![plot](./demo_image/hw4.png)
-### Hw5 :
+### HW5 : Bayesian-based car tracking
 Implement Bayesian-based algorithm to track the car in the structural environment
 
 ![plot](./demo_image/hw5.png)
